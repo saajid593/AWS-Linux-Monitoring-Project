@@ -1,5 +1,5 @@
 # AWS EC2 Website Hosting, S3 Backup & CloudWatch Monitoring
-http://YOUR-PUBLIC-IP
+http://3.110.155.233/
 ## Project Overview
 This beginner AWS project demonstrates how to host a website on an Amazon EC2 instance, store a backup of the website file in Amazon S3, and monitor CPU utilization using Amazon CloudWatch.
 
